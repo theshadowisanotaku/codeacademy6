@@ -1,0 +1,16 @@
+* {
+    background-color: #F3CFC6;
+    
+}
+header {
+    display: flex;
+    background-color: white;
+}
+h2 {
+    font-size: 48px;
+    margin-left: 400px;
+}
+footer {
+    background-image: url(photo-1584303545924-72192d4b51a3.avif);
+    
+}
